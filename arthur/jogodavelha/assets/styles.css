@@ -1,0 +1,22 @@
+.line {
+  margin: 1rem;
+  text-align: center;
+}
+.pos {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 2rem 2rem;
+  vertical-align: middle;
+}
+.simbol {
+  width: 50%;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+}
+.posScore {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+}
